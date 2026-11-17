@@ -1,0 +1,27 @@
+# Repositório público contém só o código principal; o resto fica local.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/detection_core.py
+!/scenarios.py
+!/ddos_controller.py
+!/mininet_topology.py
+!/mininet_auto.py
+!/overnight.sh
+!/soak_24h.py
+!/bridge/
+!/jade/
+/jade/classes/
+/jade/target/
+/jade/libs/*.jar
+!/jade/libs/bdi4jade.jar
+__pycache__/
+*.pyc
+*.log
+*.csv
+!/jade_runner.py
+!/experimentos.sh
+!/validacao_mininet.py
+!/validacao_mininet.sh
+/jade/APDescription.txt
